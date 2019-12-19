@@ -1,0 +1,4 @@
+Base1 = input ( ‘ Ingresar La base mayor: ‘) ;
+Base2 = input (‘ Ingresa la base menor:’);
+Altura = input (‘ Ingresa Altura: ‘) ;
+Print (‘ El área del trapecio es : ‘ , str((Base1+Base2)*Altura/2) );
