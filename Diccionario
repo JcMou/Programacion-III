@@ -1,0 +1,16 @@
+If __name__ ==”__main__”
+Dicpalb = input (‘ Ingresar una palabra:’)
+Diccionario = { ‘Hello’ : ‘hola’ , ‘teacher’ : ‘maestro’ , ‘food’ : ‘comida’ , ‘pencil’ : ‘lapiz’ , ‘pen’ : ‘boligrafo’ 
+
+If Dicpalb == ‘hello’ : print (Diccionario [ ‘hola’ ])
+Else:
+If Dicpalb == ‘teacher’ : print (Diccionario [ ‘maestro’ ])
+Else
+If Dicpalb == ‘food’ : print (Diccionario [ ‘comida’ ])
+Else
+If Dicpalb == ‘pencil’ : print (Diccionario [ ‘lapiz’ ])
+Else
+If Dicpalb == ‘pen’ : print (Diccionario [ ‘pluma’ ])
+Else:
+print ( ‘ No me da para otras palabras’ )
+print (‘ Chao que te vi’)
